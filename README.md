@@ -5,10 +5,10 @@ With this addon you can setup wich addons instantly get install at player join a
 
 config:
 
-[<img width="256" src="https://i.ibb.co/zfs7p1x/Screenshot-2.png">]
+[<img width="500" src="https://i.ibb.co/zfs7p1x/Screenshot-2.png">]
 
 ingame menu:
 
-[<img width="256" src="https://i.ibb.co/hgYkMLC/Screenshot-3.png">]
+[<img width="500" src="https://i.ibb.co/hgYkMLC/Screenshot-3.png">]
 
 make sure you dont have any other workshop downloader installed.
